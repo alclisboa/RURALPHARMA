@@ -9,7 +9,7 @@ Este repositório é destinado ao projeto **Ruralpharm**, uma aplicação web vo
 
 ## Descrição do Projeto
 
-**Ruralpharm** é uma solução moderna e inteligente para o controle e acompanhamento do uso de medicamentos em animais de produção. O sistema oferece uma interface intuitiva para o registro de tratamentos, controle de estoque de medicamentos, geração de alertas e emissão de relatórios com dados históricos.
+**Ruralpharm** é uma solução moderna e inteligente para o controle e acompanhamento do uso de medicamentos em animais de produção. O sistema oferece uma interface intuitiva para o registro de tratamentos, controle de estoque de medicamentos e emissão de relatórios com dados históricos.
 
 Com foco em segurança e precisão, o Ruralpharm proporciona acesso por diferentes perfis de usuário, permitindo uma gestão colaborativa e centralizada da saúde animal. Além disso, o sistema foi estruturado com base em uma arquitetura robusta e preparada para futuras integrações com tecnologias como inteligência artificial, promovendo previsões de doenças e decisões mais assertivas no campo.
 
@@ -18,8 +18,8 @@ Com foco em segurança e precisão, o Ruralpharm proporciona acesso por diferent
 ## Tecnologias Utilizadas
 
 - **Back-end**: .NET (C#)
-- **Front-end**: React.js
-- **Banco de Dados**: MySQL ou SQL Server
+- **Front-end**: HTML
+- **Banco de Dados**: MongoDB
 
 ---
 
@@ -37,9 +37,7 @@ Com foco em segurança e precisão, o Ruralpharm proporciona acesso por diferent
 - Autenticação de usuários com controle de acesso por perfil (admin, usuário comum)
 - Cadastro e gerenciamento de usuários, medicamentos e tratamentos
 - Histórico de aplicação de medicamentos por animal ou lote
-- Geração de relatórios e estatísticas sobre uso de medicamentos
-- Alertas automáticos para lembretes de aplicação
-- Interface responsiva e acessível via dispositivos móveis e desktop
+- Interface responsiva e acessível
 
 ---
 
