@@ -18,8 +18,7 @@ Com foco em segurança e precisão, o Ruralpharm proporciona acesso por diferent
 ## Tecnologias Utilizadas
 
 - **Back-end**: .NET (C#)
-- **Front-end**: HTML
-- **Banco de Dados**: MongoDB
+- **Banco de Dados**: SQlite
 
 ---
 
@@ -42,11 +41,9 @@ Com foco em segurança e precisão, o Ruralpharm proporciona acesso por diferent
 ---
 
 ## Estrutura Modular
-- `/frontend` → Interface do usuário (React.js)
 - `/backend` → API RESTful (.NET C#)
 - `/database` → Scripts e modelos do banco de dados
 - `/docs` → Documentação técnica e diagramas
-
 
 ---
 
